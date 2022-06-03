@@ -1,0 +1,412 @@
+{
+  "Banner" : {
+    "01" : {
+      "id" : "6",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2F59b791c7-66dc-4021-a566-7e90790dc085?alt=media&token=9da921a8-ed7c-4d81-9a9b-5dc1dea7aa52",
+      "name" : "Caffe tuoi"
+    },
+    "02" : {
+      "id" : "7",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2F5cec79bb-df39-41f9-955a-78fd903187ce?alt=media&token=c877fa48-56fc-439b-867f-b1c560a3ccd6",
+      "name" : "Caffe Sua Italy"
+    },
+    "03" : {
+      "id" : "10",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2F9e5eb651-b10e-4187-bbe3-146aeda6cd25?alt=media&token=de8b3210-a744-4746-a964-f05062680a08",
+      "name" : "Sinh To Bo"
+    },
+    "04" : {
+      "id" : "14",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2Ff6d5f032-dc87-409c-89af-fdf2480fda77?alt=media&token=be684100-a392-4d1c-89d2-5ef5db634297",
+      "name" : "CoCa"
+    },
+    "-MDxOLLZyWrCYOSM6H2v" : {
+      "id" : "10",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2Fece4db44-fcac-4f77-a1ab-f699abf6f77d?alt=media&token=10cdcba5-342a-4680-a2af-8e446d390c99",
+      "name" : "Banh Bong Lan"
+    }
+  },
+  "Caffe" : [ null, null, null, null, {
+    "description" : "Pollo bañado en salsa tradicional de mole con guarnición de arroz.",
+    "discount" : "0",
+    "image" : "https://d1uz88p17r663j.cloudfront.net/resized/52e0311f7e61d3ca9abc7f5492b0e72c_mole1_1200_600.jpg",
+    "menuId" : "4",
+    "name" : "Pollo con Mole",
+    "price" : "95"
+  }, null, {
+    "description" : "caffe ngon lam nha",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2F59b791c7-66dc-4021-a566-7e90790dc085?alt=media&token=9da921a8-ed7c-4d81-9a9b-5dc1dea7aa52",
+    "menuId" : "5",
+    "name" : "Caffe tuoi",
+    "price" : "100"
+  }, {
+    "description" : "Caffe co xuat xu tu italya",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2F5cec79bb-df39-41f9-955a-78fd903187ce?alt=media&token=c877fa48-56fc-439b-867f-b1c560a3ccd6",
+    "menuId" : "2",
+    "name" : "Caffe Sua Italy",
+    "price" : "200"
+  }, {
+    "description" : "Caffe ngon pha phinh",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2Fde9b330d-d7d1-4832-b792-53a029836a96?alt=media&token=859f1f77-a3d7-426e-b518-90f654ccf57f",
+    "menuId" : "2",
+    "name" : "Caffe Den",
+    "price" : "200"
+  }, {
+    "description" : "Caffe duoc xay tu may",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2F87365f7f-cf76-4237-8618-9f64357bc13c?alt=media&token=02b7f14e-9e98-48df-8005-d4ff63f6f6a3",
+    "menuId" : "2",
+    "name" : "Caffe Rang Xay",
+    "price" : "100"
+  }, {
+    "description" : "Duoc xay tu bo nguyen chat",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2F9e5eb651-b10e-4187-bbe3-146aeda6cd25?alt=media&token=de8b3210-a744-4746-a964-f05062680a08",
+    "menuId" : "3",
+    "name" : "Sinh To Bo",
+    "price" : "200"
+  }, {
+    "description" : "Bo Nguyen Chat Co Xuat Xu Tu Han Quoc",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2Fc5feb182-afe2-4aed-913c-304caaf2702d?alt=media&token=80cf26d0-3ca2-45d5-825a-cacba5828f50",
+    "menuId" : "3",
+    "name" : "Sinh To Bo Han Quoc",
+    "price" : "250"
+  }, {
+    "description" : "Sinh To Nguyeen Chat",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2F5ecdb957-0f2e-4328-8126-6daae467ec47?alt=media&token=845dc3ff-55f1-4bd5-8e8d-a704466b0374",
+    "menuId" : "3",
+    "name" : "Sinh To Mang Cau",
+    "price" : "240"
+  }, {
+    "description" : "Sinh To Nguyen Chat",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2F417c6d0e-d633-4f33-9054-b4ebe5e9e4b4?alt=media&token=51d6f17a-4d19-409b-925b-b931524ca51d",
+    "menuId" : "3",
+    "name" : "Sinh To Ngon",
+    "price" : "100"
+  }, {
+    "description" : "Coca Cola",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2Ff6d5f032-dc87-409c-89af-fdf2480fda77?alt=media&token=be684100-a392-4d1c-89d2-5ef5db634297",
+    "menuId" : "7",
+    "name" : "CoCa",
+    "price" : "200"
+  }, {
+    "description" : "CoCa Cola",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2F4b73510e-23ad-4c44-9cd5-3df2616851aa?alt=media&token=c5d5b5f8-fa84-42ee-ad3a-5b5ebf6d3c66",
+    "menuId" : "7",
+    "name" : "CoCa Chai",
+    "price" : "150"
+  }, {
+    "description" : "String Tu ThaiLand",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2F61b62842-0160-4feb-8a8e-08b1827686b9?alt=media&token=24e848d3-4858-459e-af0c-bebef9c2b27b",
+    "menuId" : "7",
+    "name" : "Sting Vang",
+    "price" : "200"
+  }, {
+    "description" : "Sting Tu ThaiLand",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2F1627d2eb-13a7-44bb-b07c-a400fbfe0105?alt=media&token=55606b51-9eb8-4dc5-b942-841904de2026",
+    "menuId" : "7",
+    "name" : "Sting Do",
+    "price" : "200"
+  }, {
+    "description" : "Caffe ngon hang dau Viet Nam",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2Fcb30b883-2e7c-4c33-924c-114c5639bb31?alt=media&token=5b16a94e-f602-4744-bb75-f56cf775d67f",
+    "menuId" : "01",
+    "name" : "Caffe Rang Xay",
+    "price" : "300"
+  }, {
+    "description" : "Caffe ngon Nhat Viet Nam",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2F6226be7b-c3cd-4aed-8a06-41d64c1fbe43?alt=media&token=34c02de2-9b07-4db8-a3e1-6370d8191cba",
+    "menuId" : "01",
+    "name" : "Caffe Den",
+    "price" : "200"
+  }, {
+    "description" : "Caffe ngon hang dau Viet Nam",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2F30205492-e247-4c39-9b37-4cf451e06e45?alt=media&token=e584cd5b-166b-40fc-9465-6911100d2750",
+    "menuId" : "01",
+    "name" : "Caffe Den Da",
+    "price" : "200"
+  }, {
+    "description" : "Sinh To ngon hang dau",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2Fced80b2b-8b76-4792-a58e-cc0777470dcb?alt=media&token=3e067b18-d86a-4e28-8449-f6ada055b89f",
+    "menuId" : "02",
+    "name" : "Sinh To bo",
+    "price" : "150"
+  }, {
+    "description" : "sinh to ngon hang dau",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2F208d20d8-ef51-4643-a746-1dbf20e59e66?alt=media&token=53760afb-b9b5-4248-aaea-23eda1158fdd",
+    "menuId" : "02",
+    "name" : "Sinh To mang cau",
+    "price" : "200"
+  }, {
+    "description" : "Sinh To Hang Dau",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2F0325ea70-b8a1-4275-9b49-fbbb189c86dd?alt=media&token=a243555c-6b31-41d9-871d-869b459c79d3",
+    "menuId" : "02",
+    "name" : "Sinh To",
+    "price" : "200"
+  }, {
+    "description" : "sinh to hang dau",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2F1cb542f9-15fd-4f12-89bb-9ee51b9ecb4b?alt=media&token=e2405d72-d7cf-4977-ad74-2f5230532d32",
+    "menuId" : "02",
+    "name" : "Sinh To Ngon",
+    "price" : "200"
+  }, {
+    "description" : "Sting vang`",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2Ff8fa6a4d-a0fb-4acc-bc47-7dbd419b5c92?alt=media&token=068506fc-621f-4348-a5db-018da8478688",
+    "menuId" : "03",
+    "name" : "Sting",
+    "price" : "200"
+  }, {
+    "description" : "String Do",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2F4fcfe71a-8d7b-4259-a12d-130fbefb0e74?alt=media&token=49d07f74-8248-49c6-b2b7-5a3c0c5c04ed",
+    "menuId" : "03",
+    "name" : "Sting Do",
+    "price" : "140"
+  }, {
+    "description" : "Pizza ngon hang dau the gioi",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2F85ca5112-b1b8-4597-bb8b-84a8b94e40b1?alt=media&token=4a7973bd-ccd1-4184-8a5d-a4a9f8e4221f",
+    "menuId" : "04",
+    "name" : "Pizza Xuc Xich",
+    "price" : "200"
+  }, {
+    "description" : "Caffe ngon lam",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2F613f037d-45da-4725-81ad-96d68e06c0f5?alt=media&token=bce59b82-ab79-4e8f-a85c-115afc20cc21",
+    "menuId" : "01",
+    "name" : "Caffe Viet Nam",
+    "price" : "200"
+  }, {
+    "description" : "Banh Ngon Nha lam",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2Ff0498701-a0a2-41a6-8a21-a0eaf222268f?alt=media&token=86d17bfd-61dc-4073-9f5c-38544ffea109",
+    "menuId" : "04",
+    "name" : "Banh Bong Lan Trung",
+    "price" : "200"
+  }, {
+    "description" : "Banh Nha Lam",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2F98f63452-8fa8-449e-93b4-52efcaa143e7?alt=media&token=7da83337-c894-4e22-b7a6-f7f0544b6190",
+    "menuId" : "04",
+    "name" : "Banh Bong Lan Trung",
+    "price" : "200"
+  }, {
+    "description" : "Banh Nha Lam",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2Fa06fa5b9-4122-46d0-b69a-b029d44f563b?alt=media&token=e2be0e4d-d199-4810-a311-606ded79164d",
+    "menuId" : "04",
+    "name" : "Banh Bong Lan Ngon",
+    "price" : "200"
+  }, {
+    "description" : "Sting ngon",
+    "discount" : "0",
+    "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2F9927f680-7a62-4053-9283-96b46e66fed3?alt=media&token=5eab43cc-dc10-4ca8-9a60-6f382ecc1596",
+    "menuId" : "03",
+    "name" : "Sting Chai",
+    "price" : "150"
+  } ],
+  "Menu" : {
+    "01" : {
+      "image" : "https://sohanews.sohacdn.com/thumb_w/660/2017/photo-1-1498207686647-0-0-383-617-crop-1498207728743.jpg",
+      "name" : "Caffe "
+    },
+    "02" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2Fbbf1a4f0-13d8-4a38-9543-2cc4d92d0fb8?alt=media&token=d6c686f0-7404-4a7a-858c-9d9a1ff397d1",
+      "name" : "Sinh To"
+    },
+    "03" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2F85540580-cea9-4c1a-a82b-97f1328bdff7?alt=media&token=fba30d09-34de-42a6-9abd-02bf4170940b",
+      "name" : "Nuoc Ngot"
+    },
+    "04" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2F5848c21d-0d0f-4f84-99c3-e30e19ec0adb?alt=media&token=0259fc13-86d9-4bad-ace6-0fe0256cd57c",
+      "name" : "Cac Loai Banh"
+    }
+  },
+  "Rating" : {
+    "-MCuxxc6eoXUlZY_S3Z-" : {
+      "caffeId" : "-MCuv1VcGUkNHgb7rHjr",
+      "comment" : "ngon qua",
+      "rateValue" : "5",
+      "userPhone" : "09090999999"
+    },
+    "-MCzrCqJz4gsJjQQzUYn" : {
+      "caffeId" : "-MCyo5Lg68irXprR0L19",
+      "comment" : "thanh dep trau",
+      "rateValue" : "5",
+      "userPhone" : "09090999999"
+    },
+    "-MD0ZFQwALA7CTN_GEoL" : {
+      "caffeId" : "-MCynkznOWlNZ-JwgI8B",
+      "comment" : "Caffe ngon",
+      "rateValue" : "5",
+      "userPhone" : "09090999999"
+    },
+    "-MD8958B8u13XhRYB0do" : {
+      "caffeId" : "21",
+      "comment" : "ngon lam naaaaaa",
+      "rateValue" : "4",
+      "userPhone" : "09090999999"
+    },
+    "-MD8B2MXdC58xtn7nqjA" : {
+      "caffeId" : "25",
+      "comment" : "ngon lam",
+      "rateValue" : "3",
+      "userPhone" : "09090999999"
+    },
+    "-MDJcHFUNuA6EkFxqrDR" : {
+      "caffeId" : "18",
+      "comment" : "caffe ngon ge",
+      "rateValue" : "5",
+      "userPhone" : "09090999999"
+    },
+    "-MDJcMNQqU0ku4pjtiAI" : {
+      "caffeId" : "18",
+      "comment" : "caffe tuyet voi",
+      "rateValue" : "4",
+      "userPhone" : "09090999999"
+    },
+    "-MEWlYCV2KSqNw0tpQHI" : {
+      "caffeId" : "18",
+      "comment" : "caffe huong vi tot",
+      "rateValue" : "3",
+      "userPhone" : "09090999999"
+    },
+    "-MFoPOZ6attp2mZ234R1" : {
+      "caffeId" : "6",
+      "comment" : "rat ngon\n",
+      "rateValue" : "5",
+      "userPhone" : "09090999999"
+    },
+    "-MFxl4s89muLU-zFNilA" : {
+      "caffeId" : "19",
+      "comment" : "afff ngon",
+      "rateValue" : "3",
+      "userPhone" : "09090999999"
+    },
+    "09090999999" : {
+      "caffeId" : "7",
+      "comment" : "",
+      "rateValue" : "5",
+      "userPhone" : "09090999999"
+    }
+  },
+  "Requests" : {
+    "1599709856033" : {
+      "address" : "nguyen minh chau",
+      "comment" : "nhanh len nha",
+      "foods" : [ {
+        "discount" : "0",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/fir-202-2b63f.appspot.com/o/image%2Fced80b2b-8b76-4792-a58e-cc0777470dcb?alt=media&token=3e067b18-d86a-4e28-8449-f6ada055b89f",
+        "price" : "150",
+        "productId" : "21",
+        "productName" : "Sinh To bo",
+        "quantity" : "1",
+        "userPhone" : "09090999999"
+      } ],
+      "name" : "Tuan Thanh",
+      "phone" : "09090999999",
+      "status" : "0",
+      "total" : "$150.00"
+    }
+  },
+  "Tokens" : {
+    "00000" : {
+      "serverToken" : false,
+      "token" : "epF_PuxKQsamYGxtNiJ69O:APA91bHMXfAHyz8bziAmn3w7S4LYMpjqJ80gth_L5RwayjfN5s7fQdACRMHeMywka9FYPAewTPfA2DY8mBZ594IabRNyonSoS6nZZBz8mc_GHro22CbqKA29HH_-lJlEiHyJxrNwYZtQ"
+    },
+    "09091" : {
+      "serverToken" : false,
+      "token" : "daLImUWUTPWRx89PEUF5qS:APA91bGPJjZdIhJXISMed1Tflt5jqZCHdfp8q9cUIpnrVtHa_9H_rGzc_IrcxF_lGQ3o1BY2-Kwmw_uwteHf8BGegKoPIW7lQpeY0GSO1SZMLvGrh8BlbQrqQEaWSTyUW9w0QHf_LEwc"
+    },
+    "030405" : {
+      "serverToken" : false,
+      "token" : "daLImUWUTPWRx89PEUF5qS:APA91bGPJjZdIhJXISMed1Tflt5jqZCHdfp8q9cUIpnrVtHa_9H_rGzc_IrcxF_lGQ3o1BY2-Kwmw_uwteHf8BGegKoPIW7lQpeY0GSO1SZMLvGrh8BlbQrqQEaWSTyUW9w0QHf_LEwc"
+    },
+    "99999" : {
+      "serverToken" : false
+    },
+    "09090101" : {
+      "serverToken" : false,
+      "token" : "daLImUWUTPWRx89PEUF5qS:APA91bGPJjZdIhJXISMed1Tflt5jqZCHdfp8q9cUIpnrVtHa_9H_rGzc_IrcxF_lGQ3o1BY2-Kwmw_uwteHf8BGegKoPIW7lQpeY0GSO1SZMLvGrh8BlbQrqQEaWSTyUW9w0QHf_LEwc"
+    },
+    "09090999999" : {
+      "serverToken" : false,
+      "token" : "ffR75GljRruE7GqMH6Inwt:APA91bFmIAUTX_WBjebrWb-K_lY19hmytlFQ6nKUFLvLFLtkj0C0M__VbBJn9sKGM9qvmVRSuXT-743_m0EEL_U94ec_e3eW0Su3t8GFIc4FeRU9p83ACmcTYCeZwfnPE9E0wQX3o8GR"
+    }
+  },
+  "User" : {
+    "00000" : {
+      "isStaff" : "true",
+      "name" : "tuanthanh",
+      "password" : "12345",
+      "secureCode" : "abc123"
+    },
+    "0909" : {
+      "isStaff" : "false",
+      "name" : "tuanthanh",
+      "password" : "12345",
+      "secureCode" : "1234"
+    },
+    "030303" : {
+      "IsStaff" : "false",
+      "name" : "Tuan Thanh",
+      "password" : "12344",
+      "secureCode" : "abc123"
+    },
+    "038483" : {
+      "isStaff" : "false",
+      "name" : "tuanthanh",
+      "password" : "1230",
+      "secureCode" : "1010"
+    },
+    "038489" : {
+      "isStaff" : "false",
+      "name" : "tuanthanh",
+      "password" : "1230",
+      "secureCode" : "1010"
+    },
+    "125666" : {
+      "isStaff" : "false",
+      "name" : "tuanthanh",
+      "password" : "12320",
+      "secureCode" : "1010"
+    },
+    "09090808" : {
+      "isStaff" : "false",
+      "name" : "thanh mai",
+      "password" : "12345",
+      "secureCode" : "abc123"
+    },
+    "09999999" : {
+      "IsStaff" : "false",
+      "Password" : 8888,
+      "name" : "maithanh",
+      "secureCode" : "abc123"
+    },
+    "09090999999" : {
+      "IsStaff" : "false",
+      "name" : "Tuan Thanh",
+      "password" : "12345",
+      "secureCode" : "abc123"
+    }
+  }
+}
